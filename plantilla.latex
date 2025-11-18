@@ -2,9 +2,13 @@
 \usepackage[spanish]{babel}
 \usepackage{fontspec}
 \usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
 \geometry{paperwidth=11cm, paperheight=27cm, left=1.5cm, right=1.5cm, top=2cm, bottom=2cm}
 \setmainfont{Noto Serif}
-\newfontfamily\japanese{Noto Serif JP}
+\newfontfamily\japanese{Noto Serif CJK JP}
+\setcounter{secnumdepth}{-1} % disable numbering for all heading levels
+\providecommand{\tightlist}{}
 \begin{document}
 $body$
 \end{document}

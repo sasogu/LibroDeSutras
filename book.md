@@ -1,8 +1,12 @@
-# Libro de Sutras
 
-<!-- Índice de capítulos -->
+---
+title: "Libro de Sutras"
+---
 
-- [Capítulo 1](capitulos/capitulo1.md)
-- [Capítulo 2](capitulos/capitulo2.md)
+```{=include}
+capitulos/capitulo1.md
+```
 
-<!-- Agrega más capítulos según sea necesario -->
+```{=include}
+capitulos/capitulo2.md
+```
