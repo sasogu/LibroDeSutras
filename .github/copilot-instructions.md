@@ -1,0 +1,5 @@
+- [ ] Crear estructura de carpetas para capítulos y recursos
+- [ ] Crear plantilla LaTeX personalizada para formato alargado y estrecho
+- [ ] Crear archivos de ejemplo para capítulos bilingües
+- [ ] Crear Makefile para compilar el libro a PDF
+- [ ] Documentar instrucciones en README.md

@@ -1,0 +1,10 @@
+\documentclass[11pt,a5paper]{book}
+\usepackage[spanish]{babel}
+\usepackage{fontspec}
+\usepackage{geometry}
+\geometry{paperwidth=11cm, paperheight=27cm, left=1.5cm, right=1.5cm, top=2cm, bottom=2cm}
+\setmainfont{Noto Serif}
+\newfontfamily\japanese{Noto Serif JP}
+\begin{document}
+$body$
+\end{document}
