@@ -1,72 +1,83 @@
-# RECITACIONES
 
-# ZEN
 
-## Sûtras, daranis y estrofas
+```{=latex}
+\pagenumbering{gobble}
+\thispagestyle{empty}
+```
+
+## RECITACIONES {.unnumbered .unlisted}
+
+# ZEN {.unnumbered .unlisted}
+
+## Sûtras, daranis y estrofas {.unnumbered .unlisted}
 
 ```{=latex}
 \begin{center}
-\includegraphics[width=4cm]{recursos/portada.png}
+\includegraphics[width=4cm,height=9cm]{recursos/portada.png}
 \end{center}
 ```
 
-### Comunidad Soto Zen Camino Medio
+## Comunidad Soto Zen Camino Medio {.unnumbered .unlisted}
 
 \newpage
-## Leyendas
 
-[O] Golpe normal keizu.
-
-[/]	Golpe seco apagado keizu.
-
-[X]	Apagar vibración keizu.
-
-[¡]	Golpe seco sonoro keizu.
-
-[+]	In kin
-
-[¡]	Claquetas
-
+```{=latex}
+\tableofcontents
 \newpage
-[O] [O] [O] [/]
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+```
+
+```{=latex}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+```
+
+   
+   
+   
 
 ## MÂKÂ HANNYÂ HÂRAMITÂ SHINGYÔ
 
-[O] Kan yî zai bô satsu. Gyô yin Hannyâ Hâramitâ yî. Shô ken gô [O] on kai kû. Dô issai kû yaku. Shâ rî shî. Shiki fû î kû. Kû fû î shiki. Shiki soku zê kû. Kû soku zê shiki. Yû sô gyô shiki. Yaku bû nyô zê. Shâ rî shî zê sho Hô kû sô. Fû shô fû metsu. Fû kû fû yô. Fû zô fû guen. Zê kô kû chû. Mû shiki mû yû sô gyô shiki. Mû guen nî bî zes shin nî. Mû shiki shô kô mî soku hô. Mû guen kai nai shî mû î shiki kai. Mû mû myô yaku mû mû myô yin. Nai shî mû rô shî. Yaku mû rô shî yin. Mû kû shû metsu dô. Mû chî yaku mû toku. I mû shô tok kû. Bô dai sattâ. E Hannyâ Hâramitâ [O] kô. Shin mû kei guê. Mû kei guê kô. Mû û kû fû. On rî îssai ten dô mû sô. Kû gyô nê han. San zê shô butsu. E Hannyâ Hâramitâ [O] kô. Tokuâ nokutâ râ san miakusan bô dai. Kô chî Hannyâ Hâramitâ. Zê daiyin shû. Zê dai myôshû. Zê mû yô shû. Zê mû tô dô shû. Nô yô îssai kû. Shin yitsu fû kô. Kô setsu Hannyâ Hâramitâ shû. Soku setsu shû watsu. Yiâ tê yiâ tê. [/] Hârâ yiâ tê. Hârâ sô yiâ tê. [/] Bô yî sowa kâ. Hân—nyâ—shin—gyô. [X]
+Kan yî zai bô satsu. Gyô yin Hannyâ HÂRAMITÂ yî. Shô ken gô  on kai kû. Dô issai kû yaku. Shâ rî shî. Shiki fû î kû. Kû fû î shiki. Shiki soku zê kû. Kû soku zê shiki. Yû sô gyô shiki. Yaku bû nyô zê. Shâ rî shî zê sho Hô kû sô. Fû shô fû metsu. Fû kû fû yô. Fû zô fû guen. Zê kô kû chû. Mû shiki mû yû sô gyô shiki. Mû guen nî bî zes shin nî. Mû shiki shô kô mî soku hô. Mû guen kai nai shî mû î shiki kai. Mû mû myô yaku mû mû myô yin. Nai shî mû rô shî. Yaku mû rô shî yin. Mû kû shû metsu dô. Mû chî yaku mû toku. I mû shô tok kû. Bô dai sattâ. E Hannyâ HÂRAMITÂ  kô. Shin mû kei guê. Mû kei guê kô. Mû û kû fû. On rî îssai ten dô mû sô. Kû gyô nê han. San zê shô butsu. E Hannyâ HÂRAMITÂ  kô. Tokuâ nokutâ râ san miakusan bô dai. Kô chî Hannyâ HÂRAMITÂ. Zê daiyin shû. Zê dai myôshû. Zê mû yô shû. Zê mû tô dô shû. Nô yô îssai kû. Shin yitsu fû kô. Kô setsu Hannyâ HÂRAMITÂ shû. Soku setsu shû watsu. Yiâ tê yiâ tê.  Hârâ yiâ tê. Hârâ sô yiâ tê.  Bô yî sowa kâ. Hân—nyâ—shin—gyô. 
 
 \newpage
-[/] EL SUTRA CORAZÓN DE LA GRAN SABIDURÍA
 
-[O] Avalokitesvara bodhisattva, por la práctica profunda de la Prasñâ Pâramitâ, ve claramente que los cinco agregados son [O] shûnyata, liberándose así de todo sufrimiento. Shariputra, los fenómenos no son diferentes de shûnyata. Shûnyata no es diferente de los fenómenos. Los fenómenos son shûnyata. Shûnyata es fenómenos. Sensaciones, percepciones, formaciones mentales y conciencia son igualmente shûnyata. Shariputra, todas las existencias son shûnyata. En shûnyata no hay nacimiento ni muerte, ni pureza ni impureza, ni crecimiento ni disminución, ni formas, ni sensaciones, ni percepciones, ni formaciones mentales, ni conciencia, ni órganos sensoriales, ni mente, ni objetos sensoriales, ni objetos de la mente, ni conciencias sensoriales, ni conciencia de la mente, ni ignorancia ni extinción de la ignorancia, ni vejez ni muerte, ni extinción de la vejez y de la muerte, ni sufrimiento, ni causa del sufrimiento, ni liberación del sufrimiento, ni vía de liberación del sufrimiento, ni sabiduría ni nada que obtener. Sin nada que obtener, el bodhisattva, gracias a la Prasñâ [O] Pâramitâ, se libera de miedos, obstáculos y perturbaciones y llega a la etapa última de la vida: el nirvana. Todos los Buddhas de los tres tiempos han alcanzado la Suprema Liberación gracias a la Prasñâ [O] Pâramitâ. Por eso Prasñâ Pâramitâ es el mantra universal, el mantra resplandeciente, el mantra más elevado, el mantra incomparable, aquel que extingue todo sufrimiento. Es la verdad sin error. El mantra de la  Prasñâ Pâramitâ se proclama así: Vamos, vamos, vamos más allá, más allá del más allá, hasta la liberación final. Gâtê gâtê, [/] pârâ gâtê, pârâsâm gâtê, [/] bôdhi sua jâ. Pras-ñâ—Pa-ra-mi-ta. [X]
 
+
+## EL SUTRA CORAZÓN DE LA GRAN SABIDURÍA
+
+Avalokitesvara bodhisattva, por la práctica profunda de la Prasñâ Pâramitâ, ve claramente que los cinco agregados son  shûnyata, liberándose así de todo sufrimiento. Shariputra, los fenómenos no son diferentes de shûnyata. Shûnyata no es diferente de los fenómenos. Los fenómenos son shûnyata. Shûnyata es fenómenos. Sensaciones, percepciones, formaciones mentales y conciencia son igualmente shûnyata. Shariputra, todas las existencias son shûnyata. En shûnyata no hay nacimiento ni muerte, ni pureza ni impureza, ni crecimiento ni disminución, ni formas, ni sensaciones, ni percepciones, ni formaciones mentales, ni conciencia, ni órganos sensoriales, ni mente, ni objetos sensoriales, ni objetos de la mente, ni conciencias sensoriales, ni conciencia de la mente, ni ignorancia ni extinción de la ignorancia, ni vejez ni muerte, ni extinción de la vejez y de la muerte, ni sufrimiento, ni causa del sufrimiento, ni liberación del sufrimiento, ni vía de liberación del sufrimiento, ni sabiduría ni nada que obtener. Sin nada que obtener, el bodhisattva, gracias a la Prasñâ  Pâramitâ, se libera de miedos, obstáculos y perturbaciones y llega a la etapa última de la vida: el nirvana. Todos los Buddhas de los tres tiempos han alcanzado la Suprema Liberación gracias a la Prasñâ  Pâramitâ. Por eso Prasñâ Pâramitâ es el mantra universal, el mantra resplandeciente, el mantra más elevado, el mantra incomparable, aquel que extingue todo sufrimiento. Es la verdad sin error. El mantra de la  Prasñâ Pâramitâ se proclama así: Vamos, vamos, vamos más allá, más allá del más allá, hasta la liberación final. Gâtê gâtê,  pârâ gâtê, pârâsâm gâtê,  bôdhi sua jâ. Pras-ñâ—Pa-ra-mi-ta. 
+
+
+
+## CUATRO GRANDES VOTOS
+
+Por numerosos que sean los seres  \
+hago el voto de liberarlos a todos.  
+\
+Por profundas que sean las oscuridades \
+hago el voto de iluminarlas todas.  
+\
+Por supremo que sea el Dharma \
+hago el voto de fundirme en él.  
+\
+Por maravillosa que sea la Vía del Buddha \
+hago el voto de realizarla. 
+\
 \newpage
-CUATRO GRANDES VOTOS
 
-Por numerosos que sean los seres [O]
-hago el voto de liberarlos a todos. [X]
-
-Por profundas que sean las oscuridades [O]
-hago el voto de iluminarlas todas. [X]
-
-Por supremo que sea el Dharma [O]
-hago el voto de fundirme en él. [X]
-
-Por maravillosa que sea la Vía del Buddha [O]
-hago el voto de realizarla. [X]
-
-\newpage
 # GRAN OFRECIMIENTO
 
 Deseo con un espíritu profundo y respetuoso hacia los Tres Tesoros: Buddha, Dharma y Sangha, que participemos con atención en este ofrecimiento.
 
 Ya hemos recitado el Mâkâ Hannyâ Hâramitâ Shingyô-Sutra Corazón de la Gran Sabiduría.
-Que los méritos visibles e invisibles de este sûtra y de nuestra práctica sean ofrecidos a: [/]
+Que los méritos visibles e invisibles de este sûtra y de nuestra práctica sean ofrecidos a: 
 
 A nuestro querido maestro de la enseñanza sagrada Shakyamuni Buddha;
 
 A Eihei Dôgen Daishi y a Keizan Yôkin Daishi, fundadores del puro Zen Sôtô;
 
-A todos ellos manifestamos nuestro más infinito respeto y veneración. [+]
+A todos ellos manifestamos nuestro más infinito respeto y veneración. 
 A todos nosotros practicantes puros de este dojo_______,
 (Solo retiros. A todos nosotros practicantes puros que ahora entramos/salimos en el Mandala de la Asamblea del Puro Océano,)
 A nuestros familiares, amigos y conocidos;
@@ -84,21 +95,21 @@ y todos juntos recitamos así:
 
 Tres Versos
 
-[O] Todos los Buddhas del tiempo-espacio infinito
-[O] Todos los Bodhisattvas, Mâhâsattvas y Ancestros
-[O] Mâhâ Prasñâ Pâramitâ [X
+ Todos los Buddhas del tiempo-espacio infinito
+ Todos los Bodhisattvas, Mâhâsattvas y Ancestros
+ Mâhâ Prasñâ Pâramitâ [X
 
 \newpage
-[/] DÂIHÎ SHIN DARANI
+ DÂIHÎ SHIN DARANI
 
-[O] Namu karatan nô, torayâ yâ, namu oriyâ, boryokî chî shihurâ yâ, fuyi-satobô yâ, moko satobô yâ, mô kô kyâ runikyâ yâ, [O] en, sâ harahâ eishû tan nô ton shâ, namu shikirî toimô, oriyâ, boryokî chî, shihurâ rin tô bô, nâ mû nô râ, kin yî, kî rî, mô kô hô dô, shâ mî sâ bô, ô tô yô shû ben, ô shû in, sâ bô sâ tô, nô mô bô gyâ, mô hâ tê chô, tô yî tô, en ô bô riô ki, rû gyâ chî, kyâ râ chî, î kirimô, kô, fuyisâ tô, sâ bô sâ bô, mô râ mô râ, mô kî mô kî, rî tô in kû riô, kû riô, kê mô tô riô tô riô, hô yâ yâ chî, mô kô hô yâ yâ chî, tô râ tô râ, chirini, shihurâ yâ, shâ rô shâ rô, mô mô hâ mô râ, hô chî rî, î kî î kî, shî nô  shî nô, orasan furashâ rî, hâ zâ hâ zâ, furashâ yâ, kû riô kû riô, mô râ kû riô kû riô, kî rî shâ rô shâ rô, shî rî shî rî, sû riô sû riô, fuyiyâ, fuyiyâ, fudoyâ, fudoyâ, mî chiriyâ, [O] norakin yî, chiri shuninô, hoya mono somokô, shidô yâ, somokô, moko shidoyâ, somokô, shidoyû kî,  shihurâ yâ, somokô [O] norakin yî, somokô, mô râ nô râ somokô, shirasû omogiâ yâ, somokô, sobo moko shidoyâ, somokô, shakirâ oshidô yâ, somokô, hodo moguia shidoyâ, somokô, norakin yî hâ guiarayâ, somokô, mô horishin guiarayâ, somokô, namu karatan nô torayâ yâ, [O] namu oriyâ, boryokî chî, shihurâ yâ, somokô, [O] shitedô modora, hodoyâ sô—mô—kô. [X]
+ Namu karatan nô, torayâ yâ, namu oriyâ, boryokî chî shihurâ yâ, fuyi-satobô yâ, moko satobô yâ, mô kô kyâ runikyâ yâ,  en, sâ harahâ eishû tan nô ton shâ, namu shikirî toimô, oriyâ, boryokî chî, shihurâ rin tô bô, nâ mû nô râ, kin yî, kî rî, mô kô hô dô, shâ mî sâ bô, ô tô yô shû ben, ô shû in, sâ bô sâ tô, nô mô bô gyâ, mô hâ tê chô, tô yî tô, en ô bô riô ki, rû gyâ chî, kyâ râ chî, î kirimô, kô, fuyisâ tô, sâ bô sâ bô, mô râ mô râ, mô kî mô kî, rî tô in kû riô, kû riô, kê mô tô riô tô riô, hô yâ yâ chî, mô kô hô yâ yâ chî, tô râ tô râ, chirini, shihurâ yâ, shâ rô shâ rô, mô mô hâ mô râ, hô chî rî, î kî î kî, shî nô  shî nô, orasan furashâ rî, hâ zâ hâ zâ, furashâ yâ, kû riô kû riô, mô râ kû riô kû riô, kî rî shâ rô shâ rô, shî rî shî rî, sû riô sû riô, fuyiyâ, fuyiyâ, fudoyâ, fudoyâ, mî chiriyâ,  norakin yî, chiri shuninô, hoya mono somokô, shidô yâ, somokô, moko shidoyâ, somokô, shidoyû kî,  shihurâ yâ, somokô  norakin yî, somokô, mô râ nô râ somokô, shirasû omogiâ yâ, somokô, sobo moko shidoyâ, somokô, shakirâ oshidô yâ, somokô, hodo moguia shidoyâ, somokô, norakin yî hâ guiarayâ, somokô, mô horishin guiarayâ, somokô, namu karatan nô torayâ yâ,  namu oriyâ, boryokî chî, shihurâ yâ, somokô,  shitedô modora, hodoyâ sô—mô—kô. 
 
 \newpage
-[X] OFRECIMIENTO A LOS MAESTROS DEL LINAJE
+ OFRECIMIENTO A LOS MAESTROS DEL LINAJE
 
 Deseo con un espíritu profundo y respetuoso que participemos con atención en este ofrecimiento.
 Ya hemos recitado el Dâihî Shin Darani,
-que los méritos visibles e invisibles de este darani sean ofrecidos a: [/]
+que los méritos visibles e invisibles de este darani sean ofrecidos a: 
 
 Al Muy Venerable Maestro Sôden Shuyu Daioshô, vigésimo octavo abad del templo Tôdenji y fundador espiritual del templo Banshô-san Wakô Zenji,
 
@@ -109,21 +120,21 @@ fundador de la Comunidad Budista Sôtô Zen y del templo Luz Serena.
 
 (Al maestro Chiyo Daizan Oshô fundador de la Comunidad Soto Zen Camino Medio.)
 
-A ellos dedicamos nuestro más infinito respeto y veneración. [+]
+A ellos dedicamos nuestro más infinito respeto y veneración. 
 
 Dicho esto, abandonamos cuerpo y espíritu y todos juntos recitamos así...
 
-[O] Todos los Buddhas del tiempo-espacio infinito
-[O] Todos los Bodhisattvas, Mâhâsattvas y Ancestros
-[O] Mâhâ Prasñâ Pâramitâ [X]
+ Todos los Buddhas del tiempo-espacio infinito
+ Todos los Bodhisattvas, Mâhâsattvas y Ancestros
+ Mâhâ Prasñâ Pâramitâ 
 
 \newpage
-[/] SHÔSAIMYÔ KICHIYÔ DARANI
+ SHÔSAIMYÔ KICHIYÔ DARANI
 
-[O] Nô mô san man dâ motonan oharâ chî kotoshâ sononan [O] tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ [O] chishurî chishurî sowayâ sowayâ [O] sen chî gya shiri-ei sô mô kô. [O] Nô mô san man dâ motonan oharâ chî kotoshâ sononan [O] tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ [O] chishurî chishurî sowayâ sowayâ [O] sen chî gya shiri-ei sô mô kô. [O] Nô mô san man dâ motonan oharâ chî kotoshâ sononan [O] tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ [O] chishurî chishurî sowayâ sowayâ [O]  sen chî gya shiri-ei sô—mô—kô. [X]
+ Nô mô san man dâ motonan oharâ chî kotoshâ sononan  tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ  chishurî chishurî sowayâ sowayâ  sen chî gya shiri-ei sô mô kô.  Nô mô san man dâ motonan oharâ chî kotoshâ sononan  tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ  chishurî chishurî sowayâ sowayâ  sen chî gya shiri-ei sô mô kô.  Nô mô san man dâ motonan oharâ chî kotoshâ sononan  tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ  chishurî chishurî sowayâ sowayâ   sen chî gya shiri-ei sô—mô—kô. 
 
 \newpage
-[X] OFRECIMIENTO UNIVERSAL
+ OFRECIMIENTO UNIVERSAL
 
 Deseo con un espíritu profundo y respetuoso hacia los Tres Tesoros Buddha, Dharma y Sangha, que participemos con atención en este ofrecimiento.
 Ya hemos recitado el Shôsaimyô Kichiyô Darani que protege de los accidentes mediante el cultivo de la atención.
@@ -141,9 +152,9 @@ Que la compasión universal del Bodhisattva Kanzeon caiga sobre todos nosotros c
 Dicho esto, abandonamos cuerpo y espíritu
 y todos juntos recitamos así:
 
-[O] Todos los Buddhas del tiempo-espacio infinito
-[O] Todos los Bodhisattvas, Mâhâsattvas y Ancestros
-[O] Mâhâ Prasñâ Pâramitâ [X]
+ Todos los Buddhas del tiempo-espacio infinito
+ Todos los Bodhisattvas, Mâhâsattvas y Ancestros
+ Mâhâ Prasñâ Pâramitâ 
 
 \newpage
 OFRECIMIENTO
@@ -153,13 +164,13 @@ Deseo con un espíritu profundo y respetuoso que prestemos atención a este ofre
 
 Que los méritos visibles e invisibles de este Dharma sean ofrecidos a:
 
-[¡] Vipashin Buddha Daioshô
-[¡] Sikin Buddha Daioshô
-[¡] Visvabu Buddha Daioshô
-[¡] Krakuchanda Buddha Daioshô
-[¡] Kanakamuni Buddha Daioshô
+ Vipashin Buddha Daioshô
+ Sikin Buddha Daioshô
+ Visvabu Buddha Daioshô
+ Krakuchanda Buddha Daioshô
+ Kanakamuni Buddha Daioshô
 ¡] Kashiapa Buddha Daioshô
-[¡] Shakyamuni Buddha Daioshô
+ Shakyamuni Buddha Daioshô
 Mâhâkashiapa Daioshô
 Ananda Daioshô
 Shanavasa Daioshô
@@ -240,10 +251,10 @@ Rosetsu Riuko Daioshô
 Ungai Kiozan Daioshô
 Shoriu Koho Daioshô
 Shokoku Zenko Daioshô
-Somon Kôdô Daioshô [O]
-Sôden Shuyu Daioshô [O]
-Taisei Dokushô Daioshô [O]
-Chiyo Daizan Daioshô (tres veces)[X]
+Somon Kôdô Daioshô 
+Sôden Shuyu Daioshô 
+Taisei Dokushô Daioshô 
+Chiyo Daizan Daioshô (tres veces)
 
 (continuación del ofrecimiento)
 
@@ -256,16 +267,16 @@ A ellos dedicamos nuestro más infinito respeto y veneración.
 
 Dicho esto, abandonamos cuerpo y espíritu y todos juntos recitamos así...
 
-[O] Todos los Buddhas del tiempo-espacio infinito
-[O] Todos los Bodhisattvas, Mâhâsattvas y Ancestros
-[O] Mâhâ Prasñâ Pâramitâ [X]
+ Todos los Buddhas del tiempo-espacio infinito
+ Todos los Bodhisattvas, Mâhâsattvas y Ancestros
+ Mâhâ Prasñâ Pâramitâ 
 
 \newpage
 Página 42 Libro de Sûtras
 
-[/] YENMEI YUKKU KANNON GYÔ
+ YENMEI YUKKU KANNON GYÔ
 
-[O] Kan ze on
+ Kan ze on
 namu-butsu-yô
 butsu-û in yô
 butsu-û en
@@ -273,8 +284,8 @@ buppô sô en
 yô raku-ga-yô
 chô nen kan ze on
 bô nen kan ze on
-nen [O] [O] nen yû shin ki
-nen [O] [O] nen fû ri shin [X]
+nen   nen yû shin ki
+nen   nen fû ri shin 
 
 (9 veces)
 
@@ -296,9 +307,9 @@ Que todos juntos podamos liberarnos de los obstáculos y alcanzar la Paz Última
 Dicho esto, ofrecemos cuerpo y espíritu
 y todos juntos recitamos así...
 
-[O] Todos los Buddhas del tiempo-espacio infinito
-[O] Todos los Bodhisattvas, Mâhâsattvas y Ancestros
-[O] Mâhâ Prasñâ Pâramitâ [X]
+ Todos los Buddhas del tiempo-espacio infinito
+ Todos los Bodhisattvas, Mâhâsattvas y Ancestros
+ Mâhâ Prasñâ Pâramitâ 
 
 \newpage
 ESTROFAS DE LAS COMIDAS
@@ -315,38 +326,38 @@ libres de los tres venenos.
 
 Sólo Ino:
 
-[¡] ¡Veneración al Buddha, al Dharma y a la Sangha!
+ ¡Veneración al Buddha, al Dharma y a la Sangha!
 ¡Recitemos juntos los grandes nombres!
 
 Todos:
 
-[¡] Puro Dharmakâya Buddha Vairocchana.
-[¡] Completo Sambhogakâya Buddha Vairocchana.
-[¡] Nirmanakâya visible Shakyamuni Buddha.
-[¡] Buddha Maitreya que nacerá en el futuro.
-[¡] Todos los Buddhas del tiempo-espacio infinito
-[¡] Mâhâyana Sadharma Pundarika sûtra.
-[¡] Avalokitesvara, Bodhisattva de la Compasión.
-[¡] Manyusri, Bodhisattva de la Gran Sabiduría.
-[¡] Samantabhadra, Bodhisattva de la Luz Infinita.
-[¡] Todos los Bodhisattvas, Mâhâsattvas y Ancestros.
-[¡] Mâhâ Prasñâ Pâramitâ.
+ Puro Dharmakâya Buddha Vairocchana.
+ Completo Sambhogakâya Buddha Vairocchana.
+ Nirmanakâya visible Shakyamuni Buddha.
+ Buddha Maitreya que nacerá en el futuro.
+ Todos los Buddhas del tiempo-espacio infinito
+ Mâhâyana Sadharma Pundarika sûtra.
+ Avalokitesvara, Bodhisattva de la Compasión.
+ Manyusri, Bodhisattva de la Gran Sabiduría.
+ Samantabhadra, Bodhisattva de la Luz Infinita.
+ Todos los Bodhisattvas, Mâhâsattvas y Ancestros.
+ Mâhâ Prasñâ Pâramitâ.
 
 Sólo Ino durante el desayuno:
 
-[¡] Esta comida de diez virtudes y seis sabores
+ Esta comida de diez virtudes y seis sabores
 nos da un buen estado físico y espiritual
 para seguir la Vía de la práctica pura.
 
 Sólo Ino durante la comida:
 
-[¡] Esta comida de tres virtudes y seis sabores
+ Esta comida de tres virtudes y seis sabores
 es ofrecida al Buddha, al Dharma y a la Sangha
 y a todos los seres de los tres mundos.
 
 Todos:
 
-[¡] Primero, mi gratitud hacia todos los seres
+ Primero, mi gratitud hacia todos los seres
 que han elaborado esta comida.
 Segundo, recibo esta ofrenda de alimento
 teniendo presente mi pureza original.
@@ -357,7 +368,7 @@ Quinto, tomo esta comida para practicar la Vía.
 
 Sólo Ino durante el desayuno:
 
-[¡] ¡Os ofrezco esta comida
+ ¡Os ofrezco esta comida
 seres desencarnados y existencias animales!
 ¡Que se distribuya por el universo entero
 y todos juntos podamos compartirla!
@@ -376,17 +387,17 @@ a que alcancen el despertar del Buddha.
 
 Todos, cuando se vierte el agua o antes de tomar el té:
 
-[¡] Que este agua parecida al néctar celeste
+ Que este agua parecida al néctar celeste
 con la que he lavado mis cuencos
 satisfaga a todos los que ya no existen.
 Om makura sai sowaka.
 
 Sólo Ino al final de todas las comidas:
 
-[¡] En este mundo ilusoryo florecemos sin mancha
+ En este mundo ilusoryo florecemos sin mancha
 como la flor de loto de las aguas fangosas.
 Ante nuestra naturaleza de Buddha, pura e ilimitada,
-nos inclinamos fundiéndonos en ella. [¡]  [¡]
+nos inclinamos fundiéndonos en ella.   
 
 \newpage
 TISARANA
