@@ -1,4 +1,15 @@
-
+```{=latex}
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+```
+```{=latex}
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+```
 
 ```{=latex}
 \pagenumbering{gobble}
@@ -32,13 +43,116 @@
 \setcounter{page}{1}
 ```
 
-   
+   ```{=latex}
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+```
    
    
 
 ## MÂKÂ HANNYÂ HÂRAMITÂ SHINGYÔ
 
-Kan yî zai bô satsu. Gyô yin Hannyâ HÂRAMITÂ yî. Shô ken gô  on kai kû. Dô issai kû yaku. Shâ rî shî. Shiki fû î kû. Kû fû î shiki. Shiki soku zê kû. Kû soku zê shiki. Yû sô gyô shiki. Yaku bû nyô zê. Shâ rî shî zê sho Hô kû sô. Fû shô fû metsu. Fû kû fû yô. Fû zô fû guen. Zê kô kû chû. Mû shiki mû yû sô gyô shiki. Mû guen nî bî zes shin nî. Mû shiki shô kô mî soku hô. Mû guen kai nai shî mû î shiki kai. Mû mû myô yaku mû mû myô yin. Nai shî mû rô shî. Yaku mû rô shî yin. Mû kû shû metsu dô. Mû chî yaku mû toku. I mû shô tok kû. Bô dai sattâ. E Hannyâ HÂRAMITÂ  kô. Shin mû kei guê. Mû kei guê kô. Mû û kû fû. On rî îssai ten dô mû sô. Kû gyô nê han. San zê shô butsu. E Hannyâ HÂRAMITÂ  kô. Tokuâ nokutâ râ san miakusan bô dai. Kô chî Hannyâ HÂRAMITÂ. Zê daiyin shû. Zê dai myôshû. Zê mû yô shû. Zê mû tô dô shû. Nô yô îssai kû. Shin yitsu fû kô. Kô setsu Hannyâ HÂRAMITÂ shû. Soku setsu shû watsu. Yiâ tê yiâ tê.  Hârâ yiâ tê. Hârâ sô yiâ tê.  Bô yî sowa kâ. Hân—nyâ—shin—gyô. 
+Kan ji zai bo satsu.
+
+Gyo jin hannya haramita ji.
+
+Sho ken go on kai ku.
+
+Do issai ku yaku. \
+\
+Sha ri shi.
+
+Shiki fu i ku.
+
+Ku fu i shiki.
+
+Shiki soku ze ku.
+
+Ku soku ze shiki.
+
+Ju so gyo shiki.
+
+Yaku bu nyo ze.\
+\
+Sha ri shi.
+
+Ze sho ho ku so.
+
+Fu sho fu metsu.
+
+Fu ku fu jo.
+
+Fu zo fu gen.
+
+Ze ko ku chu.\
+\
+Mu shiki mu ju so gyo shiki.
+
+Mu gen ni bi ze shin ni.
+
+Mu shiki sho ko mi soku ho.
+
+Mu gen kai nai shi mu i shiki kai.\
+\
+Mu mu myo yaku mu mu myo jin.
+
+Nai shi mu ro shi.
+
+Yaku mu ro shi jin.
+
+Mu ku shu metsu do.
+
+Mu chi yaku mu toku.
+
+I mu sho toku ko.\
+\
+Bo dai satta.
+
+E hannya haramita ko.
+
+Shin mu kei ge.
+
+Mu kei ge ko.
+
+Mu u ku fu.
+
+On ri issai ten do mu so.
+
+Ku gyo ne han.\
+\
+San ze sho butsu.
+
+E hannya haramita ko.
+
+Toku a noku ta ra san myaku san bo dai.\
+\
+Ko chi hannya haramita.
+
+Ze dai jin shu.
+
+Ze dai myo shu.
+
+Ze mu jo shu.
+
+Ze mu to do shu.
+
+No jo issai ku.
+
+Shin jitsu fu ko.
+
+Ko setsu hannya haramita shu.
+
+Soku setsu shu watsu.\
+\
+Gya tei gya tei hara gya tei.
+
+Hara so gya tei.
+
+Bo ji so wa ka.\
+\
+Hannya shingyō.
 
 \newpage
 
@@ -66,7 +180,7 @@ hago el voto de realizarla.
 \
 \newpage
 
-# GRAN OFRECIMIENTO
+## GRAN OFRECIMIENTO
 
 Deseo con un espíritu profundo y respetuoso hacia los Tres Tesoros: Buddha, Dharma y Sangha, que participemos con atención en este ofrecimiento.
 
@@ -93,19 +207,20 @@ Que la compasión universal del Bodhisattva Kanzeon caiga sobre todos nosotros c
 Dicho esto, abandonamos cuerpo y espíritu
 y todos juntos recitamos así:
 
-Tres Versos
+## Tres Versos
 
  Todos los Buddhas del tiempo-espacio infinito
  Todos los Bodhisattvas, Mâhâsattvas y Ancestros
- Mâhâ Prasñâ Pâramitâ [X
+ Mâhâ Prasñâ Pâramitâ 
 
 \newpage
- DÂIHÎ SHIN DARANI
+## DÂIHÎ SHIN DARANI
 
- Namu karatan nô, torayâ yâ, namu oriyâ, boryokî chî shihurâ yâ, fuyi-satobô yâ, moko satobô yâ, mô kô kyâ runikyâ yâ,  en, sâ harahâ eishû tan nô ton shâ, namu shikirî toimô, oriyâ, boryokî chî, shihurâ rin tô bô, nâ mû nô râ, kin yî, kî rî, mô kô hô dô, shâ mî sâ bô, ô tô yô shû ben, ô shû in, sâ bô sâ tô, nô mô bô gyâ, mô hâ tê chô, tô yî tô, en ô bô riô ki, rû gyâ chî, kyâ râ chî, î kirimô, kô, fuyisâ tô, sâ bô sâ bô, mô râ mô râ, mô kî mô kî, rî tô in kû riô, kû riô, kê mô tô riô tô riô, hô yâ yâ chî, mô kô hô yâ yâ chî, tô râ tô râ, chirini, shihurâ yâ, shâ rô shâ rô, mô mô hâ mô râ, hô chî rî, î kî î kî, shî nô  shî nô, orasan furashâ rî, hâ zâ hâ zâ, furashâ yâ, kû riô kû riô, mô râ kû riô kû riô, kî rî shâ rô shâ rô, shî rî shî rî, sû riô sû riô, fuyiyâ, fuyiyâ, fudoyâ, fudoyâ, mî chiriyâ,  norakin yî, chiri shuninô, hoya mono somokô, shidô yâ, somokô, moko shidoyâ, somokô, shidoyû kî,  shihurâ yâ, somokô  norakin yî, somokô, mô râ nô râ somokô, shirasû omogiâ yâ, somokô, sobo moko shidoyâ, somokô, shakirâ oshidô yâ, somokô, hodo moguia shidoyâ, somokô, norakin yî hâ guiarayâ, somokô, mô horishin guiarayâ, somokô, namu karatan nô torayâ yâ,  namu oriyâ, boryokî chî, shihurâ yâ, somokô,  shitedô modora, hodoyâ sô—mô—kô. 
+Namu karatan nô, torayâ yâ, namu oriyâ, boryokî chî shihurâ yâ, fuyi-satobô yâ, moko satobô yâ, mô kô kyâ runikyâ yâ,  en, sâ harahâ eishû tan nô ton shâ, namu shikirî toimô, oriyâ, boryokî chî, shihurâ rin tô bô, nâ mû nô râ, kin yî, kî rî, mô kô hô dô, shâ mî sâ bô, ô tô yô shû ben, ô shû in, sâ bô sâ tô, nô mô bô gyâ, mô hâ tê chô, tô yî tô, en ô bô riô ki, rû gyâ chî, kyâ râ chî, î kirimô, kô, fuyisâ tô, sâ bô sâ bô, mô râ mô râ, mô kî mô kî, rî tô in kû riô, kû riô, kê mô tô riô tô riô, hô yâ yâ chî, mô kô hô yâ yâ chî, tô râ tô râ, chirini, shihurâ yâ, shâ rô shâ rô, mô mô hâ mô râ, hô chî rî, î kî î kî, shî nô  shî nô, orasan furashâ rî, hâ zâ hâ zâ, furashâ yâ, kû riô kû riô, mô râ kû riô kû riô, kî rî shâ rô shâ rô, shî rî shî rî, sû riô sû riô, fuyiyâ, fuyiyâ, fudoyâ, fudoyâ, mî chiriyâ,  norakin yî, chiri shuninô, hoya mono somokô, shidô yâ, somokô, moko shidoyâ, somokô, shidoyû kî,  shihurâ yâ, somokô  norakin yî, somokô, mô râ nô râ somokô, shirasû omogiâ yâ, somokô, sobo moko shidoyâ, somokô, shakirâ oshidô yâ, somokô, hodo moguia shidoyâ, somokô, norakin yî hâ guiarayâ, somokô, mô horishin guiarayâ, somokô, namu karatan nô torayâ yâ,  namu oriyâ, boryokî chî, shihurâ yâ, somokô,  shitedô modora, hodoyâ sô—mô—kô. 
 
 \newpage
- OFRECIMIENTO A LOS MAESTROS DEL LINAJE
+
+## OFRECIMIENTO A LOS MAESTROS DEL LINAJE
 
 Deseo con un espíritu profundo y respetuoso que participemos con atención en este ofrecimiento.
 Ya hemos recitado el Dâihî Shin Darani,
@@ -129,12 +244,14 @@ Dicho esto, abandonamos cuerpo y espíritu y todos juntos recitamos así...
  Mâhâ Prasñâ Pâramitâ 
 
 \newpage
- SHÔSAIMYÔ KICHIYÔ DARANI
+
+## SHÔSAIMYÔ KICHIYÔ DARANI
 
  Nô mô san man dâ motonan oharâ chî kotoshâ sononan  tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ  chishurî chishurî sowayâ sowayâ  sen chî gya shiri-ei sô mô kô.  Nô mô san man dâ motonan oharâ chî kotoshâ sononan  tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ  chishurî chishurî sowayâ sowayâ  sen chî gya shiri-ei sô mô kô.  Nô mô san man dâ motonan oharâ chî kotoshâ sononan  tô yî tô en gyâ gyâ gyâ kî gyâ kî un nun shihurâ shihurâ hara-shihu-râ hara-shihu-râ chishusâ chishusâ  chishurî chishurî sowayâ sowayâ   sen chî gya shiri-ei sô—mô—kô. 
 
 \newpage
- OFRECIMIENTO UNIVERSAL
+
+## OFRECIMIENTO UNIVERSAL
 
 Deseo con un espíritu profundo y respetuoso hacia los Tres Tesoros Buddha, Dharma y Sangha, que participemos con atención en este ofrecimiento.
 Ya hemos recitado el Shôsaimyô Kichiyô Darani que protege de los accidentes mediante el cultivo de la atención.
@@ -157,20 +274,20 @@ y todos juntos recitamos así:
  Mâhâ Prasñâ Pâramitâ 
 
 \newpage
-OFRECIMIENTO
-A LOS BUDDHAS DE LA TRANSMISIÓN
+
+## OFRECIMIENTO A LOS BUDDHAS DE LA TRANSMISIÓN
 
 Deseo con un espíritu profundo y respetuoso que prestemos atención a este ofrecimiento.
 
 Que los méritos visibles e invisibles de este Dharma sean ofrecidos a:
 
- Vipashin Buddha Daioshô
- Sikin Buddha Daioshô
- Visvabu Buddha Daioshô
- Krakuchanda Buddha Daioshô
- Kanakamuni Buddha Daioshô
-¡] Kashiapa Buddha Daioshô
- Shakyamuni Buddha Daioshô
+Vipashin Buddha Daioshô
+Sikin Buddha Daioshô
+Visvabu Buddha Daioshô
+Krakuchanda Buddha Daioshô
+Kanakamuni Buddha Daioshô
+Kashiapa Buddha Daioshô
+Shakyamuni Buddha Daioshô
 Mâhâkashiapa Daioshô
 Ananda Daioshô
 Shanavasa Daioshô
@@ -272,11 +389,10 @@ Dicho esto, abandonamos cuerpo y espíritu y todos juntos recitamos así...
  Mâhâ Prasñâ Pâramitâ 
 
 \newpage
-Página 42 Libro de Sûtras
 
- YENMEI YUKKU KANNON GYÔ
+## YENMEI YUKKU KANNON GYÔ
 
- Kan ze on
+Kan ze on
 namu-butsu-yô
 butsu-û in yô
 butsu-û en
@@ -284,14 +400,14 @@ buppô sô en
 yô raku-ga-yô
 chô nen kan ze on
 bô nen kan ze on
-nen   nen yû shin ki
-nen   nen fû ri shin 
+nen nen yû shin ki
+nen nen fû ri shin 
 
 (9 veces)
 
 \newpage
-OFRECIMIENTO
-DEL YENMEI YUKKU KANNON GYÔ
+
+## OFRECIMIENTO DEL YENMEI YUKKU KANNON GYÔ
 
 Ya hemos recitado el Yenmei Yukku Kannon Gyô.
 Que los méritos visibles e invisibles de este Dharma sean ofrecidos:
@@ -312,7 +428,8 @@ y todos juntos recitamos así...
  Mâhâ Prasñâ Pâramitâ 
 
 \newpage
-ESTROFAS DE LAS COMIDAS
+
+## ESTROFAS DE LAS COMIDAS
 
 Todos:
 
@@ -326,38 +443,38 @@ libres de los tres venenos.
 
 Sólo Ino:
 
- ¡Veneración al Buddha, al Dharma y a la Sangha!
+¡Veneración al Buddha, al Dharma y a la Sangha!
 ¡Recitemos juntos los grandes nombres!
 
 Todos:
 
- Puro Dharmakâya Buddha Vairocchana.
- Completo Sambhogakâya Buddha Vairocchana.
- Nirmanakâya visible Shakyamuni Buddha.
- Buddha Maitreya que nacerá en el futuro.
- Todos los Buddhas del tiempo-espacio infinito
- Mâhâyana Sadharma Pundarika sûtra.
- Avalokitesvara, Bodhisattva de la Compasión.
- Manyusri, Bodhisattva de la Gran Sabiduría.
- Samantabhadra, Bodhisattva de la Luz Infinita.
- Todos los Bodhisattvas, Mâhâsattvas y Ancestros.
- Mâhâ Prasñâ Pâramitâ.
+Puro Dharmakâya Buddha Vairocchana.
+Completo Sambhogakâya Buddha Vairocchana.
+Nirmanakâya visible Shakyamuni Buddha.
+Buddha Maitreya que nacerá en el futuro.
+Todos los Buddhas del tiempo-espacio infinito
+Mâhâyana Sadharma Pundarika sûtra.
+Avalokitesvara, Bodhisattva de la Compasión.
+Manyusri, Bodhisattva de la Gran Sabiduría.
+Samantabhadra, Bodhisattva de la Luz Infinita.
+Todos los Bodhisattvas, Mâhâsattvas y Ancestros.
+Mâhâ Prasñâ Pâramitâ.
 
 Sólo Ino durante el desayuno:
 
- Esta comida de diez virtudes y seis sabores
+Esta comida de diez virtudes y seis sabores
 nos da un buen estado físico y espiritual
 para seguir la Vía de la práctica pura.
 
 Sólo Ino durante la comida:
 
- Esta comida de tres virtudes y seis sabores
+Esta comida de tres virtudes y seis sabores
 es ofrecida al Buddha, al Dharma y a la Sangha
 y a todos los seres de los tres mundos.
 
 Todos:
 
- Primero, mi gratitud hacia todos los seres
+Primero, mi gratitud hacia todos los seres
 que han elaborado esta comida.
 Segundo, recibo esta ofrenda de alimento
 teniendo presente mi pureza original.
@@ -368,7 +485,7 @@ Quinto, tomo esta comida para practicar la Vía.
 
 Sólo Ino durante el desayuno:
 
- ¡Os ofrezco esta comida
+¡Os ofrezco esta comida
 seres desencarnados y existencias animales!
 ¡Que se distribuya por el universo entero
 y todos juntos podamos compartirla!
@@ -387,27 +504,32 @@ a que alcancen el despertar del Buddha.
 
 Todos, cuando se vierte el agua o antes de tomar el té:
 
- Que este agua parecida al néctar celeste
+Que este agua parecida al néctar celeste
 con la que he lavado mis cuencos
 satisfaga a todos los que ya no existen.
 Om makura sai sowaka.
 
 Sólo Ino al final de todas las comidas:
 
- En este mundo ilusoryo florecemos sin mancha
+En este mundo ilusoryo florecemos sin mancha
 como la flor de loto de las aguas fangosas.
 Ante nuestra naturaleza de Buddha, pura e ilimitada,
 nos inclinamos fundiéndonos en ella.   
 
 \newpage
-TISARANA
+
+## TISARANA
 
 Buddham saranam gacchami
-Dhammam saranam gacchami (
+Dhammam saranam gacchami 
 Sangham saranam gacchami
 
-(Tomo refugio en el Buda)
-Tomo refugio en el Dharma)
-(Tomo refugio en la Sangha)
+Tomo refugio en el Buda
+Tomo refugio en el Dharma
+Tomo refugio en la Sangha
+
+Buddham saranam gacchami
+Dhammam saranam gacchami 
+Sangham saranam gacchami
 
 Comunidad Soto Zen Camino Medio
