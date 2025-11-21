@@ -156,13 +156,141 @@ Hannya shingyō.
 
 \newpage
 
+## Introducción al Sutra del Corazón
+
+El Sutra del Corazón es uno de los textos más recitados y venerados en el budismo mahayana. A lo largo de los siglos ha acompañado a practicantes de muy diversas tradiciones, ofreciendo una guía directa hacia la sabiduría que trasciende toda dualidad. Su brevedad no es un resumen, sino una forma de señalar más allá de las palabras, hacia la experiencia viva y directa que constituye el corazón de la vía.
+
+El sutra nos presenta a Avalokiteshvara, la manifestación del corazón despierto y compasivo, contemplando en profunda meditación la verdadera naturaleza de la existencia. Al observar atentamente los cinco agregados —cuerpo, sensaciones, percepciones, formaciones mentales y conciencia— reconoce que ninguno de ellos posee una esencia fija o separada. Son procesos interdependientes, abiertos y cambiantes; y es precisamente en esa apertura donde se revela la libertad.
+
+En este diálogo aparece Shariputra, uno de los principales discípulos del Buda histórico. En la tradición antigua es reconocido por su inteligencia aguda y su capacidad analítica, considerado el primero en sabiduría entre los arhats. que sea Avalokiteshvara quien se dirige a Shariputra no es casual: representa la transmisión de una comprensión que va más allá de la sabiduría intelectual, una invitación a cruzar el umbral de la mente conceptual hacia la sabiduría profunda (Prasñâ). Shariputra encarna la mente que busca comprender, mientras que Avalokiteshvara encarna la compasión y la visión no dual. El diálogo entre ambos refleja la integración necesaria entre claridad y corazón, entre comprensión y compasión.
+
+El vacío del que habla el sutra —shûnyata— no es una negación de la vida ni una nada fría. Es la cualidad viva de todo fenómeno: su ausencia de separatividad, su interdependencia radical. Es un vacío que acoge todas las existencias. Ver esto con claridad transforma nuestra manera de relacionarnos con el sufrimiento. Lo que parecía sólido e inamovible deja de atraparnos. La práctica nos muestra, una y otra vez, que aquello que llamamos «yo», «mi historia» o «mis problemas» no es un bloque rígido, sino un flujo continuo que podemos habitar con más libertad.
+
+El sutra también nos conduce más allá de las categorías duales habituales: nacimiento y muerte, pureza e impureza, ganancia y pérdida, logro y fracaso. Al señalar que «nada hay que alcanzar», desmonta la idea de que la iluminación es un objeto más que debemos poseer. Nos recuerda que el camino se abre cuando dejamos de buscar fuera lo que ya está presente en nuestra naturaleza original, luminosa y no dual.
+
+Por eso, cuando recitamos el Sutra del Corazón, no buscamos descifrar un mensaje oculto con la mente intelectual. Lo recitamos para entrar en sintonía con la sabiduría que atraviesa toda experiencia, permitiendo que sus palabras suavicen la rigidez con la que solemos mirar la realidad. La recitación se convierte en una práctica compartida, un modo de dejar que el ritmo, la vibración y la intención del sutra resuenen en el fondo de nuestra naturaleza de buda.
+
+Recitar este sutra en comunidad nos conecta con una larga corriente de practicantes que, desde tiempos antiguos, han confiado en esta enseñanza para cultivar un corazón compasivo y una visión clara de la existencia. De este modo, honramos la tradición sin perder de vista el propósito profundo de nuestra práctica: despertar aquí y ahora, en medio de la vida cotidiana.
 
 
 ## EL SUTRA CORAZÓN DE LA GRAN SABIDURÍA
 
-Avalokitesvara bodhisattva, por la práctica profunda de la Prasñâ Pâramitâ, ve claramente que los cinco agregados son  shûnyata, liberándose así de todo sufrimiento. Shariputra, los fenómenos no son diferentes de shûnyata. Shûnyata no es diferente de los fenómenos. Los fenómenos son shûnyata. Shûnyata es fenómenos. Sensaciones, percepciones, formaciones mentales y conciencia son igualmente shûnyata. Shariputra, todas las existencias son shûnyata. En shûnyata no hay nacimiento ni muerte, ni pureza ni impureza, ni crecimiento ni disminución, ni formas, ni sensaciones, ni percepciones, ni formaciones mentales, ni conciencia, ni órganos sensoriales, ni mente, ni objetos sensoriales, ni objetos de la mente, ni conciencias sensoriales, ni conciencia de la mente, ni ignorancia ni extinción de la ignorancia, ni vejez ni muerte, ni extinción de la vejez y de la muerte, ni sufrimiento, ni causa del sufrimiento, ni liberación del sufrimiento, ni vía de liberación del sufrimiento, ni sabiduría ni nada que obtener. Sin nada que obtener, el bodhisattva, gracias a la Prasñâ  Pâramitâ, se libera de miedos, obstáculos y perturbaciones y llega a la etapa última de la vida: el nirvana. Todos los Buddhas de los tres tiempos han alcanzado la Suprema Liberación gracias a la Prasñâ  Pâramitâ. Por eso Prasñâ Pâramitâ es el mantra universal, el mantra resplandeciente, el mantra más elevado, el mantra incomparable, aquel que extingue todo sufrimiento. Es la verdad sin error. El mantra de la  Prasñâ Pâramitâ se proclama así: Vamos, vamos, vamos más allá, más allá del más allá, hasta la liberación final. Gâtê gâtê,  pârâ gâtê, pârâsâm gâtê,  bôdhi sua jâ. Pras-ñâ—Pa-ra-mi-ta. 
+Avalokiteshvara Bodhisattva,
+
+por la práctica profunda
+
+de la Prasñâ Pâramitâ,
+
+ve con claridad
+
+que los cinco agregados
+
+son shûnyata,
+
+y al ver esto
+
+libera su corazón
+
+de todo sufrimiento.
 
 
+Shariputra, escucha:
+
+la forma es shûnyata,
+
+y shûnyata es forma.
+La forma no es distinta del vacío,
+ni el vacío
+es distinto de la forma.
+Sensaciones, percepciones,
+formaciones mentales
+y conciencia
+son igualmente shûnyata.
+
+Shariputra, escucha:
+todos los fenómenos
+son shûnyata.
+En shûnyata
+no hay nacimiento
+ni muerte;
+no hay pureza
+ni impureza;
+no hay crecimiento
+ni disminución.
+
+En esta realidad profunda
+no hay forma,
+ni sensación,
+ni percepción,
+ni formaciones mentales,
+ni conciencia.
+No hay ojos ni oídos,
+ni nariz ni lengua,
+ni cuerpo ni mente.
+
+No hay colores ni sonidos,
+ni olores ni sabores,
+ni objetos tangibles,
+ni objetos mentales.
+No hay ignorancia,
+ni extinción
+de la ignorancia.
+No hay vejez y muerte,
+ni extinción
+de la vejez y de la muerte.
+
+No hay sufrimiento,
+ni causa del sufrimiento;
+no hay cese,
+ni camino.
+No hay sabiduría,
+ni nada que obtener.
+
+Sin nada que obtener,
+las personas bodhisattva,
+apoyándose en la
+Prasñâ Pâramitâ,
+no encuentran obstáculos
+en su mente.
+Sin obstáculos,
+no hay miedo;
+más allá de toda ilusión,
+viven plenamente despiertas.
+
+Todos los Buddhas
+de los tres tiempos
+han despertado
+a la Suprema Liberación
+gracias a la
+Prasñâ Pâramitâ.
+
+Por eso decimos
+que Prasñâ Pâramitâ
+es la gran enseñanza,
+la luz más luminosa,
+el mantra supremo,
+el mantra incomparable,
+el que disipa
+todo sufrimiento.
+Es la verdad
+sin error.
+
+Y así proclamamos
+la fórmula sagrada:
+
+Vamos, vamos,
+vamos más allá,
+más allá del más allá,
+hasta la liberación final.
+
+Gâtê gâtê,
+pârâ gâtê,
+pârâsâm gâtê,
+bôdhi sua jâ.
+
+Prasñâ—Pâramitâ.
+
+\newpage
 
 ## CUATRO GRANDES VOTOS
 

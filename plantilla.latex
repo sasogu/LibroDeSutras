@@ -7,11 +7,22 @@
 \usepackage{adjustbox}
 \usepackage{sectsty}
 \geometry{paperwidth=5.5in, paperheight=8.5in, left=1.5cm, right=1.5cm, top=2cm, bottom=2cm}
-\setmainfont{Noto Serif}
-\newfontfamily\japanese{Noto Serif CJK JP}
+\setmainfont[
+  Path = /Users/sasogu/Library/Fonts/,
+  UprightFont = NotoSerifCJKjp-Regular.otf,
+  BoldFont = NotoSerifCJKjp-Bold.otf,
+  ItalicFont = NotoSerifCJKjp-Regular.otf,
+  BoldItalicFont = NotoSerifCJKjp-Bold.otf,
+  AutoFakeSlant = 0.2
+]{Noto Serif CJK JP}
+\newfontfamily\japanese[
+  Path = /Users/sasogu/Library/Fonts/,
+  UprightFont = NotoSerifCJKjp-Regular.otf,
+  BoldFont = NotoSerifCJKjp-Bold.otf
+]{Noto Serif CJK JP}
 \linespread{1.2}
 \setlength{\parindent}{0pt}
-\AtBeginDocument{\fontsize{13pt}{16pt}\selectfont}
+\AtBeginDocument{\fontsize{12pt}{14.4pt}\selectfont}
 \newcommand{\fullpagetext}[1]{%
   \clearpage
   \thispagestyle{plain}
